@@ -69,12 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# Blueprint of our Youtube Clone
+## Blueprint of our Youtube Clone
 
-## Head
+### Head
 
-## Body
+### Body
 
-### Sidebar
-
-- Menu Items 
+- Sidebar
+- Menu Items
+- Main Container
+- Button List
+- Video Container
+- Video card
