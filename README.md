@@ -69,15 +69,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Blueprint of our Youtube Clone
+## Blueprint of Our Youtube Clone
 
-### Head
-
-### Body
-
+- Head  
+- Body
 - Sidebar
 - Menu Items
 - Main Container
 - Button List
 - Video Container
 - Video card
+
+Debouncing
+
+typing slow = 200ms
+typing fast = 30ms
+
+Perforance:
+
+- Iphone pro max = 14 letter(14 API calls) * 1000user at a time = 14000 API calls
+
+- with debouncing 3 API calls = 3 * 1000 = only 3000 API  calls
